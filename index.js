@@ -1,5 +1,5 @@
 function hello () {
-    console.log("hello world + test")
+    console.log("hello")
 }
 
 hello();
